@@ -133,6 +133,8 @@ npm run dev
 
 ---
 
+
+
 ## 📌 Notes
 
 * Ensure both frontend and backend servers are running simultaneously
