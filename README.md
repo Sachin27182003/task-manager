@@ -144,6 +144,13 @@ npm run dev
 ## 👨‍💻 Author
 
 **Sachin**
-B.Tech Student | Full-Stack Developer
+B.Tech 3rd year Student | Full-Stack Developer
 
 ---
+
+🙏 Thank You
+
+Thank you for checking out this project!
+If you found it helpful or interesting, consider giving it a ⭐ on GitHub.
+
+Your support means a lot and keeps the motivation going 🚀
